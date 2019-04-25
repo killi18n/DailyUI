@@ -1,12 +1,17 @@
 .Title {
   width: 100%;
   margin-top: 2rem;
+  margin-bottom: 5rem;
   .TitleSelector {
+    color: #4f4f4f;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: 1.45rem;
     .TitleLabel {
+      letter-spacing: 0.2rem;
       &.Big {
+        font-weight: 700;
         font-size: 2.5rem;
       }
     }

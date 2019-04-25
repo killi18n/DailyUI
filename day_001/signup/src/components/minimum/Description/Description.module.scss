@@ -1,0 +1,14 @@
+.Description {
+  display: flex;
+
+  margin-left: 1.025rem;
+  margin-right: 1.025rem;
+  margin-top: 0.5rem;
+
+  .text {
+    color: #4f4f4f;
+    &.bold {
+      font-weight: 700;
+    }
+  }
+}
