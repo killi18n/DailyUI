@@ -1,29 +1,7 @@
-# credit-card
+# Source Image
 
-## Project setup
-```
-yarn install
-```
+https://dribbble.com/shots/6061142-Daily-UI-Challenge-002-Credit-Card-Checkout
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+# ScreenShot
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Imgur](https://i.imgur.com/QhmE1FI.png)
